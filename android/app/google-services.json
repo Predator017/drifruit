@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "606477394437",
+    "firebase_url": "https://dryfruit-45af8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dryfruit-45af8",
+    "storage_bucket": "dryfruit-45af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606477394437:android:0f37059e972f5dcd1bb26c",
+        "android_client_info": {
+          "package_name": "com.android.dryfruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606477394437-0ksbdtbm7k5qibuf1ab08rqcrv95ebvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3_olmE_EA7KJ9K3yaw86b7B4ml1vD84Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606477394437-0ksbdtbm7k5qibuf1ab08rqcrv95ebvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606477394437-caluf94u53fpkpsju95pekcgf1erjssh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dfd.dfd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606477394437:android:d2237ea0b06036981bb26c",
+        "android_client_info": {
+          "package_name": "com.dfd.dfd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606477394437-imtem8d8g9nnbmjeobpdkf2aclm4b5tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dfd.dfd",
+            "certificate_hash": "098421649fef097d5fe6f7e4c3dca4bc3366b735"
+          }
+        },
+        {
+          "client_id": "606477394437-0ksbdtbm7k5qibuf1ab08rqcrv95ebvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3_olmE_EA7KJ9K3yaw86b7B4ml1vD84Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606477394437-0ksbdtbm7k5qibuf1ab08rqcrv95ebvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606477394437-caluf94u53fpkpsju95pekcgf1erjssh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dfd.dfd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
